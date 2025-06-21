@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angelicastarlux
 - 👀 I’m interested in ... My Little Pony, Monster High, Animal Crossing, Poppy & etc..
-- 🌱 I’m currently learning ... Javascript & Python.
+- 🌱 I’m currently learning ... Javascript, Node.js, Python & more.
 - 💞️ I’m looking to collaborate on ... Nothing atm...
 - 📫 How to reach me ...Check profile.
 - 😄 Pronouns: ...She/Her
